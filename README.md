@@ -10,4 +10,6 @@ Installation:
 3. then run this app using : yarn start
 4. project will run sucessfully.
 
+Screenshot:
+Screenshot added on email as wel add folder here screenshots, please check it out.
 
